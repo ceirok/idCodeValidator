@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\IsikukoodiParser\IsikukoodParser.Test\obj\Debug\netcoreapp2.0\IsikukoodParser.Test.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\IsikukoodiParser\IsikukoodParser.Test\obj\Debug\netcoreapp2.0\IsikukoodParser.Test.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IsikukoodiParser\IsikukoodParser.Test\obj\Debug\netcoreapp2.0\IsikukoodParser.Test.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IsikukoodiParser\IsikukoodParser.Test\obj\Debug\netcoreapp2.0\IsikukoodParser.Test.AssemblyInfo.cs
